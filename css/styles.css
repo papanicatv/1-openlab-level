@@ -1,0 +1,123 @@
+.container{
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  font-family: 'SF Pro Display', sans-serif;
+  letter-spacing: 1px;
+  font-size: 13px;
+  height: 50px;
+  padding: 0px 12px;
+  margin: 0px auto;
+  width: 1140px;
+}
+
+.zaujem{ 
+  margin: 0px 48px 0px 0px;
+  height: 13px;
+}
+
+.OPENLAB-COMMUNITY{
+  color: #989ca2;
+  padding: 6px 10px;
+  border: 1px solid;
+  border-color: rgba(152, 156, 162, 0.15);
+  font-size: 12px;
+  background-color: rgba(152, 156, 162, 0.15);
+  border-radius: 50rem;
+  width: fit-content;
+  vertical-align: middle;
+  display: flex;
+}
+
+header{
+  height: 50px;
+  border-bottom: 1px #d7eaff solid;
+  min-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1320px;
+}
+
+body{
+  margin: 0px;
+  align-items: center;
+}
+
+.nav-main{
+  padding: 8px 0px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.nav-container{
+  height: 46.6px;
+  padding: 0px 12px;
+  display: flex;
+  box-sizing: border-box;
+  margin-right: auto;
+  margin-left: auto;
+  align-items: center;
+ }
+
+ .section2{
+  width: auto;
+  height: 440px;
+  background-color: #3597ff !important;
+  margin: 0px 0px 48px;
+  box-sizing: border-box;
+  align-items: center;
+ }
+
+ .s2container{
+  width: 1340px;
+  height: 440px;
+  padding-right: var(--bs-gutter-x,.75rem);
+  padding-left: var(--bs-gutter-x,.75rem);
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+  display: flex;
+ 
+ }
+ .s2align{
+  margin-top: 3rem!important;
+  margin-bottom: 3rem!important;
+  padding-top: 3rem!important;
+  padding-bottom: 3rem!important;
+  padding-left: 12px;
+  padding-right: 12px;
+ }
+ .s2align > .institut{
+  color: white;
+  font-family: 'SF Pro Display', sans-serif;
+  font-size: 40px;
+  letter-spacing: 1px;
+  font-weight: 300!important;
+  margin: 0px 0px 24px;
+  width: 451px;
+  height: 144px;
+  
+}
+
+.institut >.it{
+  letter-spacing: 1px;
+  width: 374.2px;
+  height: 48px;
+  font-weight: 700!important;
+}
+
+.s2align > .realizacia{
+  font-family: 'SF Pro Display', sans-serif;
+  letter-spacing: 1px;
+  box-sizing: border-box;
+  width: 451px;
+  height: 48px;
+  margin: 0px 0px 16px;
+  color: white;
+}
+
+
+
+
